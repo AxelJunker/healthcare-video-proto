@@ -1,4 +1,4 @@
-## Omega Care Twilio
+## Healthcare video prototype
 
 ### Prerequisites
 
