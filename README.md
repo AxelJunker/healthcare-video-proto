@@ -1,5 +1,7 @@
 ## Healthcare video prototype
 
+A healthcare video prototype using Twilio
+
 ### Prerequisites
 
 * node.js
